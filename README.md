@@ -170,16 +170,15 @@ commit all changes before pull
     
  ```
 
-From https://github.com/haribhai/react-gh-pages
- * branch            master     -> FETCH_HEAD
-Already up to date.
+then..
 
  ```
    
    $ git push origin master
+   
     
  ```
-
+* I recommend exploring the GitHub repository once again at this point. When I did that, I noticed that a `master` branch now existed, and it contained the app's source code.
    
 11.**Congratulations!,You have successfully Deployed(Published) a React Application with webpack(bundle.js) to GitHub Pages.**
 
